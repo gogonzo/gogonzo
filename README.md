@@ -1,5 +1,5 @@
 # 💫 About Me:
-I develop reproducible shiny apps.
+I develop R packages.
 
 
 ## 🌐 Socials:
